@@ -61,5 +61,10 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/jmayergit/jisho-vscode-extension.git"
+    },
+    "icon": "public/images/icon.png",
+    "galleryBanner": {
+        "color": "#47DB27",
+        "theme": "light"
     }
 }
