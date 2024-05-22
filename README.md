@@ -6,4 +6,4 @@ Easily translate selected text externally using Jisho.org.
 -   Right-click to bring up the editor context menu
 -   Click "Navigate to Jisho"
 
-\!\[translation feature screenshot\]\(public/images/translation-feature-screenshot.png\)
+<img width="400px" src="public/images/translation-feature-screenshot.png" />
