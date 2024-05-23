@@ -7,3 +7,6 @@ Easily translate selected text externally using Jisho.org.
 -   Click "Navigate to Jisho"
 
 <img width="400px" src="public/images/translation-feature-screenshot.png" />
+
+
+[Marketplace](https://marketplace.visualstudio.com/items?itemName=Jalexis.jisho)
